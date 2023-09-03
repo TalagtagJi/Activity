@@ -1,0 +1,36 @@
+/* Reset some default styles */
+body, h1, h2, p {
+    margin: 0;
+    padding: 20;
+}
+
+/* Global styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #eff4fd ;
+    color: #000000;
+    line-height: 1.6;
+    margin: auto;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+    background-color: orange;
+    color: #000000;
+}
+
+h2{
+         font-family: arial;
+         text-align: center;
+         font-size: 20pt;
+         font-weight: lighter;
+}
+
+#img-gal{
+    height: 200px;
+    padding: 10px;
+    margin: auto;
+}
